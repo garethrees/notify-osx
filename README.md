@@ -10,3 +10,5 @@ Usage
 -----
 
     $ sleep 5 && echo 'some long command' && notify "done"
+
+![Notify in action](http://i.imgur.com/sgggLuP.png "Notify in action")
